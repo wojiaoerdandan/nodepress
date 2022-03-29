@@ -3,7 +3,7 @@
   "version": "3.8.4",
   "description": "RESTful API service for blog.guoyaping.com APIblog",
   "author": {
-    "name": "GuoYaping",
+    "name": "Guo-Yaping",
     "url": "https://github.com/wojiaoerdandan/nodepress"
   },
   "private": false,
