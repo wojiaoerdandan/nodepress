@@ -1,21 +1,21 @@
 {
   "name": "nodepress",
   "version": "3.8.4",
-  "description": "RESTful API service for Surmon.me blog",
+  "description": "RESTful API service for blog.guoyaping.com APIblog",
   "author": {
-    "name": "Surmon",
-    "url": "https://github.com/surmon-china"
+    "name": "GuoYaping",
+    "url": "https://github.com/wojiaoerdandan/nodepress"
   },
   "private": false,
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/surmon-china/nodepress/issues"
+    "url": "https://github.com/wojiaoerdandan/nodepress/issues"
   },
-  "homepage": "https://github.com/surmon-china/nodepress#readme",
+  "homepage": "https://github.com/wojiaoerdandan/nodepress#readme",
   "documentation": "https://github.surmon.me/nodepress",
   "repository": {
     "type": "git",
-    "url": "https://github.com/surmon-china/nodepress.git"
+    "url": "https://github.com/wojiaoerdandan/nodepress.git"
   },
   "scripts": {
     "lint": "eslint \"{src,test}/**/*.ts\"",
