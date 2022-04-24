@@ -55,8 +55,8 @@ export const AUTH = {
 }
 
 export const EMAIL = {
-  account: argv.email_account || 'your email address, e.g. admin@surmon.me',
-  password: argv.email_password || 'your email password',
+  account: argv.email_account || '374379434@qq.com',
+  password: argv.email_password || 's5042220',
 }
 
 export const DISQUS = {
@@ -70,8 +70,8 @@ export const DISQUS = {
 }
 
 export const AKISMET = {
-  key: argv.akismet_key || 'your akismet Key',
-  blog: argv.akismet_blog || 'your akismet blog site, e.g. https://surmon.me',
+  key: argv.akismet_key || 'ef4e70f81bf0',
+  blog: argv.akismet_blog || 'https://blog.guoyaping.com',
 }
 
 // https://ziyuan.baidu.com/linksubmit/index
