@@ -33,7 +33,7 @@
 
 ---
 
-**🔥 其他 [相关项目](https://github.com/stars/surmon-china/lists/surmon-me)：**
+**🔥 其他 [相关项目gyp](https://github.com/stars/surmon-china/lists/surmon-me)：**
 
 - **SSR Blog:** [`surmon.me`](https://github.com/surmon-china/surmon.me) powered by Vue (3)
 - **Blog admin:** [`veact-admin`](https://github.com/surmon-china/veact-admin) powered by React & [`Veact`](https://github.com/veactjs/veact)
