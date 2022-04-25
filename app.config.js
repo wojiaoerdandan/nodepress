@@ -47,8 +47,8 @@ exports.AUTH = {
     defaultPassword: yargs_1.argv.auth_default_password || 'root',
 };
 exports.EMAIL = {
-    account: yargs_1.argv.email_account || 'your email address, e.g. admin@surmon.me',
-    password: yargs_1.argv.email_password || 'your email password',
+    account: yargs_1.argv.email_account || '374379434@qq.com',
+    password: yargs_1.argv.email_password || 's5042220',
 };
 exports.DISQUS = {
     adminAccessToken: yargs_1.argv.disqus_admin_access_token || 'disqus admin access_token',
@@ -58,8 +58,8 @@ exports.DISQUS = {
     secretKey: yargs_1.argv.disqus_secret_key || 'disqus application secret_key',
 };
 exports.AKISMET = {
-    key: yargs_1.argv.akismet_key || 'your akismet Key',
-    blog: yargs_1.argv.akismet_blog || 'your akismet blog site, e.g. https://surmon.me',
+    key: yargs_1.argv.akismet_key || 'ef4e70f81bf0',
+    blog: yargs_1.argv.akismet_blog || 'https://blog.guoyaping.com',
 };
 exports.BAIDU_INDEXED = {
     site: yargs_1.argv.baidu_site || 'your baidu site domain. e.g. https://surmon.me',
