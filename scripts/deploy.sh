@@ -23,7 +23,7 @@ echo "[deploy] fetching release code..."
 rm -rf dist
 mkdir dist
 cd dist
-git clone -b release git@github.com:surmon-china/nodepress.git .
+git clone -b release git@github.com:wojiaoerdandan/nodepress.git .
 rm -rf .git
 cd ..
 

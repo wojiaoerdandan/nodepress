@@ -44,4 +44,5 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
           key: ${{ secrets.KEY }}
+          port: ${{ secrets.PORT }}
           script: sh ${{ secrets.WWW_PATH }}/nodepress/scripts/deploy.sh
